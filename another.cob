@@ -1,0 +1,7 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. another.
+       ENVIRONMENT DIVISION.
+       PROCEDURE DIVISION.
+           DISPLAY "THIS IS SOMETHING".
+           STOP RUN.
+           
